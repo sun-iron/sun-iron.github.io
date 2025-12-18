@@ -39,4 +39,5 @@ For more detailed information on the challenges and solutions related to cloud m
 
 ### Contact
 
+* ORCID : <https://orcid.org/0000-0003-1838-974X/>
 * Email : <sunpark@soongsil.ac.kr>
