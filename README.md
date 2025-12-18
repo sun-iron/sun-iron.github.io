@@ -29,13 +29,14 @@ This repository is dedicated to addressing the common misconceptions that **"the
 
 For more detailed information on the challenges and solutions related to cloud migration, please check out my GitHub repository.
 
-* **DB-classification: ** https://github.com/sun-iron/K-means-for-DB-classification
-* **Dynamic Sourcecode Analysis: ** https://github.com/sun-iron/service-boundary-analysis
-* **Storage FinOps: ** https://github.com/sun-iron/storage_finops_lstm
-* more : https://github.com/sun-iron
+* **DB-classification:** <https://github.com/sun-iron/K-means-for-DB-classification/>
+* **Dynamic Sourcecode Analysis:** <https://github.com/sun-iron/service-boundary-analysis/>
+* **Storage FinOps:** <https://github.com/sun-iron/storage_finops_lstm/>
+* **Trace-LogVector:** <https://github.com/sun-iron/tlv/>
+* more : <https://github.com/sun-iron/>
 
 ---
 
 ### Contact
 
-* Email : sunpark@soongsil.ac.kr
+* Email : <sunpark@soongsil.ac.kr/>
