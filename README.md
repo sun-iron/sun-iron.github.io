@@ -15,7 +15,7 @@ Later, I moved into the SI (System Integration) sector, where I applied cloud te
 * **Languages:** C/C++, Python, Shell Script, PHP
 * **Operating Systems:** Linux, Windows
 * **Domains:** Multimedia Processing, Data Communication, LBS, Infrastructure, Data Centers
-* **M/L:** Clustering, RNN
+* **M/L:** Clustering, RNN, RAG, MCP
 
 ---
 
@@ -39,4 +39,4 @@ For more detailed information on the challenges and solutions related to cloud m
 
 ### Contact
 
-* Email : <sunpark@soongsil.ac.kr/>
+* Email : <sunpark@soongsil.ac.kr>
